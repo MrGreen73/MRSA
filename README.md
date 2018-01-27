@@ -10,6 +10,7 @@ The Program for Construction of Minimum Rectilinear Steiner Tree Using Genetic A
 3)	Мутация
 4)	Селекция
 5)	Оценка
+
 Алгоритм, который использован для нахождения минимального прямолинейного дерева Штейнера(МПДШ) можно представить в виде псевдокода:
     generate(PC);
     evaluate(PC);
